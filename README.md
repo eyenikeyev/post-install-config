@@ -224,6 +224,8 @@ Add New Help Topic
 - leave other options as default
 - Add topic
 <p>
+Go to the Manage section, on the Help Topics tab, the Help Topics should be displayed to see that this was done correctly
+<p>
 <p/>
 <img src="https://i.imgur.com/EIHrb7X.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
