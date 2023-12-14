@@ -40,10 +40,10 @@ This tutorial outlines the post-install configuration of the open-source help de
 - Add New Role
 - Name: Supreme Admin
 - Go to Permissions section, select all options for Tickets tab, select all options for Tasks tab, check the option for Knowledge Base then Save Changes
-</p>
+<p>
 <img src="https://i.imgur.com/pf3q1Xr.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 4.) Access the Admin Panel
-</p>
+<p>
 - click on Agents
 - click on departments
 - click on Add a New Department
