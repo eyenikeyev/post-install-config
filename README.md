@@ -221,7 +221,7 @@ Add New Help Topic
 Add New Help Topic
 <p>
 
-- Equipment Reset
+- Password Reset
 - leave other options as default
 - Save Changes
 </p>
