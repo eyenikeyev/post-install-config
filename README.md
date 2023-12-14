@@ -135,11 +135,21 @@ Go to Access tab
 <p>
 
 - Go to Agent Panel
-- go to Users tab
+- Users tab
 - Add User
 - email: Karen@osticket.com
 - Full Name: Karen Smith
 - Add User
+<p>
+- Go to Agent Panel
+- Users tab
+- Add User
+- email: Ken@osticket.com
+- Full Name: Ken Smith
+- Add User
+<p>
+
+</p>
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
