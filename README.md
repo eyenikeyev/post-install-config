@@ -67,7 +67,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 - leave other options as default
 - click on Members
 - add yourself as an agent
-- create team
+- Create Team
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
