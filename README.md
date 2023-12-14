@@ -31,6 +31,14 @@ This tutorial outlines the post-install configuration of the open-source help de
 1.) Go to https://portal.azure.com/, connect to Remote Desktop Connection with the virtual machines' Public IP Address, enter the username and password
 </p>
 2.) Browse to your help desk login page in the virtual machine: http://localhost/osTicket/scp/login.php
+</p>
+3.) Access the Admin Panel, 
+- click on Agents 
+- click on Roles 
+- Add New Role
+- Name: Supreme Admin
+- Go to Permissions section, select all options for Tickets tab, select all options for Tasks tab, check the option for Knowledge Base then Save Changes
+</p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
