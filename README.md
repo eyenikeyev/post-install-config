@@ -220,6 +220,7 @@ Add New Help Topic
 <p/>
 Add New Help Topic
 <p>
+
 - Equipment Reset
 - leave other options as default
 - Save Changes
