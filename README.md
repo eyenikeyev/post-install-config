@@ -32,6 +32,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 </p>
 2.) Browse to your help desk login page: http://localhost/osTicket/scp/login.php, this is only accessible while in the virtual machine
 </p>
+<img src="https://i.imgur.com/d2eYZol.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 3.) Access the Admin Panel
 
 - click on Agents 
