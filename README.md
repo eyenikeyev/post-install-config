@@ -103,6 +103,7 @@ Go to Permissions tab
 <p>
 Access Admin Panel
 <p>
+
 - click on Agents tab
 - Add new agent
 - Name: John Doe
@@ -114,6 +115,7 @@ Access Admin Panel
 - uncheck require password change at next login
 - Set, then leave the rest
 <p>
+
 Go to Access tab
 - primary department: Support
 - Select Role: View Only
