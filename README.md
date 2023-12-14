@@ -101,6 +101,28 @@ Go to Permissions tab
 <img src="https://i.imgur.com/B01MbYd.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
+Access Admin Panel
+<p>
+- click on Agents tab
+- Add new agent
+- Name: John Doe
+- email: johndoe@osticket.com
+- username: john.doe
+- select Set Password
+- uncheck the send the agent a password email reset
+- password: Password1
+- uncheck require password change at next login
+- Set, then leave the rest
+<p>
+Go to Access tab
+- primary department: Support
+- Select Role: View Only
+- Extended Access: Support
+- then Create
+- After this go to the Agents icon
+- Go to the agents tab, the user account should be displayed to see that this was done correctly
+
+</p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
 <br />
