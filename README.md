@@ -93,7 +93,6 @@ This tutorial outlines the post-install configuration of the open-source help de
 Go to Access tab
 <p>
 
-</p>
 - primary department: System Administrator
 - role: Supreme Admin
 - check fall back to primary role on assignments
