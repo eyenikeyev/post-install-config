@@ -68,7 +68,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 - click on Members
 - add yourself as an agent
 - Create Team
-
+<img src="https://i.imgur.com/LM5R2nT.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
