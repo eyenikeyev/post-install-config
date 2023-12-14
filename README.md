@@ -93,11 +93,11 @@ Go to Access tab
 - leave extended access unselected
 <p>
 
-Go to Permissions tab, 
+Go to Permissions tab 
 - leave everything in there as is
-- Go to Teams tab, add Level II Support then Create.
+- Go to Teams tab, add Level II Support then Create
 - After this go to Agents icon
-- Go to Agents tab to see that this was done correctly.
+- Go to Agents tab to see that this was done correctly
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
