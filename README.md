@@ -40,8 +40,6 @@ This tutorial outlines the post-install configuration of the open-source help de
 - Add New Role
 - Name: Supreme Admin
 - Go to Permissions section, select all options for Tickets tab, select all options for Tasks tab, check the option for Knowledge Base then Save Changes
-
-<img src="https://i.imgur.com/d2eYZol.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
