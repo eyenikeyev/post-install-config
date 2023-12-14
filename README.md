@@ -131,7 +131,7 @@ Go to Access tab
 - Extended Access: Support
 - then Create
 - After this go to the Agents icon
-- Go to the agents tab, the user account should be displayed to see that this was done correctly
+- Go to the agents tab, on the agent section, the user account should be displayed to see that this was done correctly
 </p>
 <p>
 <img src="https://i.imgur.com/AThQTw4.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
