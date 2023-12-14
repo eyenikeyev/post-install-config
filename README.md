@@ -147,6 +147,7 @@ Go to Access tab
 - email: Karen@osticket.com
 - Full Name: Karen Smith
 - Add User
+</p>
 <p>
 - Go to Agent Panel
 - Users tab
