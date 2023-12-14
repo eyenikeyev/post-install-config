@@ -155,10 +155,37 @@ Go to Agent Panel
 - email: Ken@osticket.com
 - Full Name: Ken Smith
 - Add User
+</p>
+<p>
+8.) Configure SLAs
 <p>
 
+- Access Admin Panel
+- Manage tab
+- select SLA
+- new SLA plan
+- Name: SEV-A
+- Grace period: 1 hour
+- Schedule: 24/7
+- then Add Plan
+<p>
 </p>
+Add New SLA plan
+<p>
 
+- Name: SEV-B
+- Grace period: 4 hours
+- Schedule: 24/7
+<p>
+</p>
+Add New SLA plan
+<p>
+
+- Name: SEV-C
+- Grace period: 8
+- Schedue: Monday-Friday 8:00 AM - 5 PM
+<p>
+</p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
 <br />
