@@ -30,7 +30,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <h2>Configuration Steps</h2>
 1.) Go to https://portal.azure.com/, connect to Remote Desktop Connection with the virtual machines' Public IP Address, enter the username and password
 </p>
-2.) Browse to your help desk login page in the virtual machine: http://localhost/osTicket/scp/login.php
+2.) Browse to your help desk login page: http://localhost/osTicket/scp/login.php, this is only accessible while in the virtual machine
 </p>
 3.) Access the Admin Panel
 
