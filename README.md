@@ -188,6 +188,42 @@ Add New SLA plan
 Go to the Manage tab, the SLAs should be displayed to see that this was done correctly
 <p>
 <img src="https://i.imgur.com/nn3SSIP.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+9.) Configure Help Topics
+<p>
+
+- Access Admin Panel
+- Manage tab
+- Add New Help Topic
+- Topic: Business Critical Outage
+- Parent Topic: Top Level Topic, leave other options as default
+- Add topic
+- Save Changes
+<p>
+</p>
+Add New Help Topic
+<p>
+
+- Topic: Personal Computer Issues
+- leave other options as default
+- Save Changes
+<p>
+</p>
+Add New Help Topic
+<p>
+
+- Topic: Equipment Reset
+- leave other options as default
+- Save Changes
+<p>
+<p/>
+Add New Help Topic
+<p>
+- Equipment Reset
+- leave other options as default
+- Save Changes
+</p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
 <br />
