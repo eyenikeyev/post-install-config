@@ -121,6 +121,7 @@ Access Admin Panel
 <p>
 
 Go to Access tab
+<p>
 - primary department: Support
 - Select Role: View Only
 - Extended Access: Support
