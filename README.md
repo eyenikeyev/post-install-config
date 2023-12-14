@@ -33,7 +33,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 2.) Browse to your help desk login page in the virtual machine: http://localhost/osTicket/scp/login.php
 </p>
 3.) Access the Admin Panel
-<p>
+
 - click on Agents 
 - click on Roles 
 - Add New Role
