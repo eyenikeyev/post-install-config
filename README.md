@@ -62,7 +62,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 5.) Configure Teams
 <p>
 
-access admin panel
+- access admin panel
 - click on Agents tab
 - click on Teams tab
 - Add New Team
