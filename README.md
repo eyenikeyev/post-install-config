@@ -34,7 +34,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 </p>
 <img src="https://i.imgur.com/d2eYZol.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 3.) Access the Admin Panel
-<p>
+
 - click on Agents 
 - click on Roles 
 - Add New Role
@@ -43,7 +43,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <p>
 <img src="https://i.imgur.com/pf3q1Xr.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 4.) Access the Admin Panel
-<p>
+
 - click on Agents
 - click on departments
 - click on Add a New Department
