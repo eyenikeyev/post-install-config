@@ -85,12 +85,14 @@ This tutorial outlines the post-install configuration of the open-source help de
 - uncheck require password change at next login
 - Set, then leave the rest
 <p>
+
 Go to Access tab
 - primary department: System Administrator
 - role: Supreme Admin
 - check fall back to primary role on assignments
 - leave extended access unselected
 <p>
+
 Go to permissions tab, leave everything in there as is
 Go to Teams tab, add Level II Support then Create. After this go to Agents icon in Agents tab to see this was done correctly.
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
