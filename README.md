@@ -33,9 +33,10 @@ This tutorial outlines the post-install configuration of the open-source help de
 2.) Browse to your help desk login page: http://localhost/osTicket/scp/login.php, this is only accessible while in the virtual machine
 </p>
 <img src="https://i.imgur.com/d2eYZol.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
-3.) Access the Admin Panel
+3.) Configure Roles
 <p>
 
+- access the admin panel
 - click on Agents 
 - click on Roles 
 - Add New Role
@@ -44,9 +45,10 @@ This tutorial outlines the post-install configuration of the open-source help de
 <p>
 <img src="https://i.imgur.com/pf3q1Xr.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 <p>
-4.) Access the Admin Panel
+4.) Configure Departments
 <p>
 
+- access the admin panel
 - click on Agents
 - click on departments
 - click on Add a New Department
@@ -57,9 +59,10 @@ This tutorial outlines the post-install configuration of the open-source help de
 <img src="https://i.imgur.com/PjDwRbZ.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-5.) Access Admin Panel
+5.) Configure Teams
 <p>
 
+access admin panel
 - click on Agents tab
 - click on Teams tab
 - Add New Team
@@ -71,9 +74,10 @@ This tutorial outlines the post-install configuration of the open-source help de
 <img src="https://i.imgur.com/LM5R2nT.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-6.) Access Admin Panel
+6.) Configure Agents
 <p>
 
+- access admin panel
 - click on Agents tab
 - Add New Agent
 - Name: Jane Doe
