@@ -42,6 +42,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 - Go to Permissions section, select all options for Tickets tab, select all options for Tasks tab, check the option for Knowledge Base then Save Changes
 <p>
 <img src="https://i.imgur.com/pf3q1Xr.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+</p>
 4.) Access the Admin Panel
 
 - click on Agents
