@@ -12,6 +12,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop
 - Internet Information Services (IIS)
+- osTicket
 
 <h2>Operating Systems Used </h2>
 
@@ -19,13 +20,13 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Post-Install Configuration Objectives</h2>
 
-- Configure Roles
-- Configure Departments
-- Configure Teams
-- Configure Agents
+- Familiarity with the UI of osTicket
+- Creating and Configuring Roles
+- Creation of Tickets
+- Creating Agents and Users
 - Configure Users
-- Configure SLAs
-- Configure Help Topics
+- Setting up Service Level Agreements in ticketing system
+- Configure=ing Help Topics
 
 <h2>Configuration Steps</h2>
 1.) Go to https://portal.azure.com/, connect to Remote Desktop Connection with the virtual machines' Public IP Address, enter the username and password
