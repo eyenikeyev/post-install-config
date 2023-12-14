@@ -69,7 +69,30 @@ This tutorial outlines the post-install configuration of the open-source help de
 - add yourself as an agent
 - Create Team
 <img src="https://i.imgur.com/LM5R2nT.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+</p>
 <p>
+6.) Access Admin Panel
+<p>
+
+- click on Agents tab
+- Add New Agent
+- Name: Jane Doe
+- email: janedoe@osticket.com
+- username: jane.doe
+- select Set Password
+- uncheck the send the agent a password email reset
+- password: Password1
+- uncheck require password change at next login
+- Set, then leave the rest
+<p>
+Go to Access tab
+- primary department: System Administrator
+- role: Supreme Admin
+- check fall back to primary role on assignments
+- leave extended access unselected
+<p>
+Go to permissions tab, leave everything in there as is
+Go to Teams tab, add Level II Support then Create. After this go to Agents icon in Agents tab to see this was done correctly.
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
