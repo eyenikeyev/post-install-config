@@ -42,12 +42,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <ul>
 
 
-- access the admin panel
-- click on Agents 
-- click on Roles 
-- Add New Role
-- Name: Supreme Admin
-- Go to Permissions section, select all options for Tickets tab, select all options for Tasks tab, check the option for Knowledge Base then Save Changes
+There are two panels when navigating osTicket: Agent Panel and Admin Panel. You will know which panel you're on if the opposite panel is displayed on the top right of the UI next to your user login name
 <p>
 <img src="https://i.imgur.com/pf3q1Xr.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 <p>
