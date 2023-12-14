@@ -104,8 +104,7 @@ Go to Permissions tab
 
 - leave everything in there as is
 - Go to Teams tab, add Level II Support then Create
-- After this go to Agents icon
-- Go to Agents tab, the user account should be displayed to see that this was done correctly
+- Go to Agents tab, on the agent section, the user account should be displayed to see that this was done correctly
 <img src="https://i.imgur.com/B01MbYd.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
