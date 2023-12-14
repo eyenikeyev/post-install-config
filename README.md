@@ -229,4 +229,4 @@ Go to the Manage tab, on the Help Topics section, the Help Topics should be disp
 <img src="https://i.imgur.com/KvCRlVK.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 <p>
 <p/>
-Congratulations! You've completed everything in this lab
+Congrats! You've completed everything in this part of the lab
