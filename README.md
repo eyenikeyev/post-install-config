@@ -163,7 +163,7 @@ Go to Agent Panel
 - Access Admin Panel
 - Manage tab
 - select SLA
-- Add new SLA plan
+- Add New SLA plan
 - Name: SEV-A
 - Grace period: 1 hour
 - Schedule: 24/7
