@@ -185,7 +185,7 @@ Add New SLA plan
 - Grace period: 8
 - Schedue: Monday-Friday 8:00 AM - 5 PM
 <p>
-Go to the Manage tab, the SLAs should be displayed to see that this was done correctly
+Go to the Manage tab, on the SLA section, the SLAs should be displayed to see that this was done correctly
 <p>
 <img src="https://i.imgur.com/nn3SSIP.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 </p>
