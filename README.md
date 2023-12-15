@@ -26,7 +26,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 - Creating Agents and Users
 - Configure Users
 - Setting up Service Level Agreements in ticketing system
-- Configure=ing Help Topics
+- Configuring Help Topics
 
 <h2>Configuration Steps</h2>
 1.) Go to https://portal.azure.com/, connect to Remote Desktop Connection with the virtual machines' Public IP Address, enter the username and password
