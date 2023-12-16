@@ -106,7 +106,17 @@ Access the Admin Panel, go to the Settings tab and click on Users, make sure Reg
 <img src="https://i.imgur.com/OEtYw31.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 <p/>
 <p>
-Configure Agents
+</ul>
+  
+</p>
+
+</br>
+
+<h3>Configure Agents</h3>
+
+<p>
+  
+<ul>
 <p>
 
 - access admin panel
