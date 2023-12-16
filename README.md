@@ -18,8 +18,6 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 - Windows 10</b>
 
-<h2>Post-Install Configuration Objectives</h2>
-
 </ul>
 
 </br>
