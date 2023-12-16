@@ -129,12 +129,7 @@ Fill in the Agent's basic info and set the Agent's email address as [name].doe@o
 <p>
 Set the Agent's password to Password1 and uncheck the boxes to prevent the Agent from needing to reset password or change password after login
 <p>
-- primary department: Support
-- Select Role: View Only
-- Extended Access: Support
-- then Create
-- After this go to the Agents icon
-- Go to the agents tab, on the agent section, the user account should be displayed to see that this was done correctly
+Go to the access tab, for Primary Department select Support. For the Role select View Only. For Extended Access select Support, then Create.
 </p>
 <p>
 <img src="https://i.imgur.com/AThQTw4.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
