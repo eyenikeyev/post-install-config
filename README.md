@@ -52,14 +52,9 @@ There are two panels when navigating osTicket: Agent Panel and Admin Panel. You 
 4.) Configure Departments
 <p>
 
-- access the admin panel
-- click on Agents
-- click on departments
-- click on Add a New Department
-- Name: System Administrators
-- Ticket Assignment: All
-- Leave the rest of the options as default
-- Create Department
+Departments are used to routre and resolve tickets based on their importance or instructions. On the Agents tab, click on Departments and click on Add New Department.
+<p>
+- Note: osTicket creates two departments (Maintenance and Support) by default
 <img src="https://i.imgur.com/PjDwRbZ.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
