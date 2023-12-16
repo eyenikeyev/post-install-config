@@ -51,6 +51,7 @@ There are two panels when navigating osTicket: Agent Panel and Admin Panel. You 
 <p>
 Configure Roles
 <p/>
+<p>
 Roles are the permissions granted to Agents per Department that they have access to.
 <p>
 Access the Admin Panel, go to Agents tab and click on Roles, then click on Add New Role
