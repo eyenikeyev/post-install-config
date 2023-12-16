@@ -169,43 +169,19 @@ Example of creating an SLA Plan, click on Add Plan to create the SLA Plan
 <img src="https://i.imgur.com/40oT52p.png" alt="Disk Sanitization Steps"/>
 <p/>
 <p>
-9.) Configure Help Topics
-<p>
-
-- Access Admin Panel
-- Manage tab
-- Add New Help Topic
-- Topic: Business Critical Outage
-- Parent Topic: Top Level Topic, leave other options as default
-- Add topic
-<p>
+</ul>
+  
 </p>
-Add New Help Topic
+
+</br>
+
+<h3>Configuring Help Topics</h3>
+
+<p>
+  
+<ul>
 <p>
 
-- Topic: Personal Computer Issues
-- leave other options as default
-- Add topic
-<p>
-</p>
-Add New Help Topic
-<p>
-
-- Topic: Equipment Reset
-- leave other options as default
-- Add topic
-<p>
-<p/>
-Add New Help Topic
-<p>
-
-- Password Reset
-- leave other options as default
-- Add topic
-<p>
-Go to the Manage tab, on the Help Topics section, the Help Topics should be displayed to see that this was done correctly
-<p>
-<p/>
 <img src="https://i.imgur.com/KvCRlVK.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 <p>
 <p/>
