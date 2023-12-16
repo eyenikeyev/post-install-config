@@ -132,7 +132,7 @@ Set the Agent's password to Password1 and uncheck the boxes to prevent the Agent
 Go to the access tab, for Primary Department select Support. For the Role select View Only. Extended access can be added to the agent in order to access additional departments, leave this as default. In Permissions tab leave all the options selected. In Teams assign it to Level II Support, then Create.
 </p>
 <p>
-<img src="https://i.imgur.com/AThQTw4.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/ym0YnHp.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 7.) Configure Users
