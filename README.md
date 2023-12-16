@@ -126,7 +126,9 @@ For this tutorial, you will create two new agents Jane and John. Its advised to 
 Fill in the Agent's basic info and set the Agent's email address as [name].doe@osticket.com and Set Password
 </p>
 <img src="https://i.imgur.com/9IjM7DK.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
-<p></p>
+<p>
+Set the Agent's password to Password1 and uncheck the boxes to prevent the Agent from needing to reset password or change password after login
+<p>
 Go to Access tab
 <p>
 
