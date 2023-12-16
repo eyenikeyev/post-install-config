@@ -182,8 +182,8 @@ Example of creating an SLA Plan, click on Add Plan to create the SLA Plan
 <ul>
 <p>
 Help Topics are helpful to streamline the ticket entry experience for the user buy helping them specify their ticket info and also determine what department the ticket should go to. In the Admin Panel, go to the Manage tab and click on Add New Topic.
-<p>
 Note: osTicket creates four Help Topics. Feedback, General Inquiry, Report a Problem, and Report a Problem / Access Issue be default.
+<img src="https://i.imgur.com/40oT52p.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 <p>
 <img src="https://i.imgur.com/KvCRlVK.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 <p>
