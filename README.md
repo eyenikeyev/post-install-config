@@ -119,19 +119,12 @@ Access the Admin Panel, go to the Settings tab and click on Users, make sure Reg
 <ul>
 <p>
 
-- access admin panel
-- click on Agents tab
-- Add New Agent
-- Name: Jane Doe
-- email: janedoe@osticket.com
-- username: jane.doe
-- select Set Password
-- uncheck the send the agent a password email reset
-- password: Password1
-- uncheck require password change at next login
-- Set, then leave the rest
+Agents are given the access to the help desk in osTicket to respond, resolve, and update the status of tickets. In the Admin Panel, go to the agents tab and click on Add New Agent.
 <p>
-
+For this tutorial, you will create two new agents Jane and John. Its advised to have a notepad to catalog information as you enter the credentials. You will set their user names as [name.doe] and both of their passwords as Password1 for convenience.
+<p>
+Fill in the Agent's basic info and set the Agent's email address as [name].doe@osticket.com and Set Password
+</p>
 Go to Access tab
 <p>
 
