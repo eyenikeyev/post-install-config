@@ -135,23 +135,7 @@ Go to the access tab, to set the agents Primary Department. Extended access can 
 <img src="https://i.imgur.com/ym0YnHp.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-7.) Configure Users
-<p>
-
-- Go to Agent Panel
-- Users tab
-- Add User
-- email: Karen@osticket.com
-- Full Name: Karen Smith
-- Add User
-<p>
-
-Go to Agent Panel
-- Users tab
-- Add User
-- email: Ken@osticket.com
-- Full Name: Ken Smith
-- Add User
+Users are creators and owners of tickets and by using osTicket they are able to track the status of their tickets. In the Agent Panel, go to the Users tab and click on Add User. In this tutorial you will be creating two new users Ken and Karen and setting up usernames, emails, and passwords similiar to our Agents.
 </p>
 <p>
 8.) Configure SLAs
