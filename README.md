@@ -175,7 +175,7 @@ Example of creating an SLA Plan, click on Add Plan to create the SLA Plan
 
 </br>
 
-<h3>Configuring Help Topics</h3>
+<h3>Configure Help Topics</h3>
 
 <p>
   
