@@ -187,6 +187,15 @@ Note: osTicket creates four Help Topics. Feedback, General Inquiry, Report a Pro
 <p>
 <img src="https://i.imgur.com/40oT52p.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 <p>
+You will create four different Help Topics based on the potential severity a ticket could have, from lowest to highest priority
+1.) Business Critical Outage
+<p>
+2.) Personal Computer Issues
+<p>
+3.) Equipment Reset
+<p>
+4.) Password Reset
+</p>
 <img src="https://i.imgur.com/KvCRlVK.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 <p>
 <p/>
