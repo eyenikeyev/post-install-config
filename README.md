@@ -101,6 +101,7 @@ Add New Team, name it Level II Support, then click on Create Team
 <p/>
 <p>
 Access the Admin Panel, go to the Settings tab and click on Users, make sure Registration Required is unchecked. This will allow the user to create tickets anonymously.
+<img src="https://i.imgur.com/Efmf1ih.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 <p/>
 <p>
 Configure Agents
