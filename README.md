@@ -73,6 +73,7 @@ Note: osTicket creates two departments (Maintenance and Support) by default
 </p>
 <p>
 Name the Department System Administrators, leave all other options as default, then Create Dept to create department
+<p>
 <img src="https://i.imgur.com/zCcwT0A.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
