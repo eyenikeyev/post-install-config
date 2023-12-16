@@ -76,15 +76,10 @@ Name the Department System Administrators, leave all other options as default, t
 5.) Configure Teams
 <p>
 
-- access admin panel
-- click on Agents tab
-- click on Teams tab
-- Add New Team
-- Name: Level II Support
-- leave other options as default
-- click on Members
-- add yourself as an agent
-- Create Team
+The Teams section is used to organize Agents from different departments in osTicket to handle specific issues and supersede Agents and their Departments' parameter rules. Access Admin Panel, in Agents tab, click on Teams and Add New Team.
+<p>
+Note: osTicket creates a team - Level I Support by default
+<p>
 <img src="https://i.imgur.com/LM5R2nT.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
