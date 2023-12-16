@@ -47,7 +47,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 There are two panels when navigating osTicket: Agent Panel and Admin Panel. You will know which panel you're on if the opposite panel is displayed on the top right of the UI next to your user login name. For example the user "eric" is on the Admin Panel
 <p>
-<img src="https://i.imgur.com/pf3q1Xr.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/AUpkk7b.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 <p>
 1.) Configure Departments
 <p>
