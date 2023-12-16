@@ -112,7 +112,7 @@ Access the Admin Panel, go to the Settings tab and click on Users, make sure Reg
 
 </br>
 
-<h3>Configure Agents</h3>
+<h3>Configure Agents and Users</h3>
 
 <p>
   
