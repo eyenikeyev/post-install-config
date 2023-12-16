@@ -56,6 +56,8 @@ Roles are the permissions granted to Agents per Department that they have access
 Note: osTicket creates Four Roles - All Access, Expanded Access, Limited Access, and View Only by default.
 <img src="https://i.imgur.com/UINgbKj.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 <p>
+Name the role Supreme Admin, then click on the permissions tab; in this tab you can assign specific permissions to this role. For the Supreme Admin role, check every box under the Tickets, Tasks, and Knowledgebase tabs. Click on Add Role to finish this process
+<p>
 Configure Departments
 <p>
 
