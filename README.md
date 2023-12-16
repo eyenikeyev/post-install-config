@@ -38,7 +38,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <h2>Configuration Steps</h2>
 
 
-<h3>Configuring Roles, Departments, & Teams</h3>
+<h3>Configuring Departments, Teams, & Roles</h3>
 
 <p>
   
