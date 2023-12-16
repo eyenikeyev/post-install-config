@@ -87,7 +87,7 @@ Add New Team, name it Level II Support, then click on Create Team
 <img src="https://i.imgur.com/Efmf1ih.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-6.) Configure Agents
+Configure Agents
 <p>
 
 - access admin panel
