@@ -147,7 +147,7 @@ Users are creators and owners of tickets and by using osTicket they are able to 
 
 </br>
 
-<h3>Adding SLA Plans</h3>
+<h3>Configure SLA Plans</h3>
 
 <p>
   
