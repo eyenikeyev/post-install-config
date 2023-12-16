@@ -20,18 +20,21 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Post-Install Configuration Objectives</h2>
 
-1.) Familiarity with the UI of osTicket
-<p>
-2.)  Creating and Configuring Roles
-<p>
-3.) Creation of Tickets
-<p>
-4.) Creating Agents and Users
-<p>
-5.) Setting up Service Level Agreements in ticketing system
-<p>
-6.) Configuring Help Topics
-<p>
+</ul>
+
+</br>
+
+<h2>Post-Install Configuration Objectives</h2>
+<ol>
+  <li>Familiarity with the UI of osTicket</li>
+  <li>Creating and Configuring Roles</li>
+  <li>Creation of Tickets</li>
+  <li>Creating Agents and Users</li>
+  <li>Setting up Service Level Agreements (SLA Plans) in ticketing system</li>
+  <li>Configuring Help Topics</li>
+</ol>
+
+</br>
 <h2>Configuration Steps</h2>
 1.) Go to https://portal.azure.com/, connect to Remote Desktop Connection with the virtual machines' Public IP Address, enter the username and password
 </p>
