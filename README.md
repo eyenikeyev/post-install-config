@@ -21,15 +21,15 @@ This tutorial outlines the post-install configuration of the open-source help de
 <h2>Post-Install Configuration Objectives</h2>
 
 1.) Familiarity with the UI of osTicket
-
-2)  Creating and Configuring Roles
-
+<p>
+2.)  Creating and Configuring Roles
+<p>
 3.) Creation of Tickets
-
+<p>
 4.) Creating Agents and Users
-
+<p>
 5.) Setting up Service Level Agreements in ticketing system
-
+<p>
 6.) Configuring Help Topics
 <p>
 <h2>Configuration Steps</h2>
