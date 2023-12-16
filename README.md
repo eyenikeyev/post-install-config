@@ -87,6 +87,19 @@ Add New Team, name it Level II Support, then click on Create Team
 <img src="https://i.imgur.com/Efmf1ih.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
+</ul>
+  
+</p>
+
+</br>
+
+<h3>Allowing anyone to create Tickets</h3>
+
+<p>
+  
+<ul>
+<p/>
+<p>
 Configure Agents
 <p>
 
