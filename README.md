@@ -52,7 +52,7 @@ There are two panels when navigating osTicket: Agent Panel and Admin Panel. You 
 <p>
 <img src="https://i.imgur.com/AUpkk7b.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 <p>
-Configure Roles
+**Configure Roles**
 <p>
 Roles are the permissions granted to Agents per Department that they have access to. Access the Admin Panel, go to Agents tab and click on Roles, then click on Add New Role
 <p>
@@ -63,7 +63,7 @@ Name the role Supreme Admin, then click on the permissions tab; in this tab you 
 <p>
 <img src="https://i.imgur.com/it57abu.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 <p/>
-Configure Departments
+**Configure Departments**
 <p>
 
 Departments are used to route and resolve tickets based on their importance or instructions. On the Agents tab, click on Departments and click on Add New Department.
@@ -77,7 +77,7 @@ Name the Department System Administrators, leave all other options as default, t
 <img src="https://i.imgur.com/zCcwT0A.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Configure Teams
+**Configure Teams**
 <p>
 
 The Teams section is used to organize Agents from different departments in osTicket to handle specific issues and supersede Agents and their Departments' parameter rules. Access Admin Panel, in Agents tab, click on Teams and Add New Team.
