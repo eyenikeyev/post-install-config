@@ -197,7 +197,8 @@ You will create four different Help Topics based on the potential severity a tic
 <p>
 4.) Password Reset
 </p>
+Example of Adding a New Help Topic
+<p></p>
 <img src="https://i.imgur.com/S8013HP.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 <p>
 <p/>
-Congrats! You've completed everything in this part of the lab
