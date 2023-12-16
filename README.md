@@ -73,7 +73,7 @@ Name the Department System Administrators, leave all other options as default, t
 <img src="https://i.imgur.com/zCcwT0A.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-5.) Configure Teams
+Configure Teams
 <p>
 
 The Teams section is used to organize Agents from different departments in osTicket to handle specific issues and supersede Agents and their Departments' parameter rules. Access Admin Panel, in Agents tab, click on Teams and Add New Team.
