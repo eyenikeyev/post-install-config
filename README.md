@@ -37,17 +37,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 </br>
 <h2>Configuration Steps</h2>
 
-<h3>Configuring Roles, Departments, & Teams</h3>
 
-<p>
-  
-<ul>
-1.) Go to https://portal.azure.com/, connect to Remote Desktop Connection with the virtual machines' Public IP Address, enter the username and password
-</p>
-2.) Browse to your help desk login page: http://localhost/osTicket/scp/login.php, this is only accessible while in the virtual machine
-</p>
-<img src="https://i.imgur.com/d2eYZol.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
-<p>
 <h3>Configuring Roles, Departments, & Teams</h3>
 
 <p>
