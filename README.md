@@ -51,9 +51,7 @@ There are two panels when navigating osTicket: Agent Panel and Admin Panel. You 
 <p>
 Configure Roles
 <p>
-Roles are the permissions granted to Agents per Department that they have access to.
-<p>
-Access the Admin Panel, go to Agents tab and click on Roles, then click on Add New Role
+Roles are the permissions granted to Agents per Department that they have access to. Access the Admin Panel, go to Agents tab and click on Roles, then click on Add New Role
 <p>
 Note: osTicket creates Four Roles - All Access, Expanded Access, Limited Access, and View Only by default.
 <img src="https://i.imgur.com/UINgbKj.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
@@ -61,7 +59,7 @@ Note: osTicket creates Four Roles - All Access, Expanded Access, Limited Access,
 Configure Departments
 <p>
 
-Departments are used to routre and resolve tickets based on their importance or instructions. On the Agents tab, click on Departments and click on Add New Department.
+Departments are used to route and resolve tickets based on their importance or instructions. On the Agents tab, click on Departments and click on Add New Department.
 
 Note: osTicket creates two departments (Maintenance and Support) by default
 <img src="https://i.imgur.com/lkkCjJL.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
