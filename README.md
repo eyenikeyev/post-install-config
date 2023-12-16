@@ -141,7 +141,17 @@ Users are creators and owners of tickets and by using osTicket they are able to 
 <img src="https://i.imgur.com/Y6JgfEx.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-8.) Configure SLAs
+</ul>
+  
+</p>
+
+</br>
+
+<h3>Adding SLA Plans</h3>
+
+<p>
+  
+<ul>
 <p>
 
 - Access Admin Panel
