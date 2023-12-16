@@ -153,36 +153,14 @@ Users are creators and owners of tickets and by using osTicket they are able to 
   
 <ul>
 <p>
-
-- Access Admin Panel
-- Manage tab
-- select SLA
-- Add New SLA plan
-- Name: SEV-A
-- Grace period: 1 hour
-- Schedule: 24/7
-- then Add Plan
-<p>
+Service Level Agreements provide a length of time for the Administrator when the tickets are expected to be closed. They can also be designatedto specific Departments or Help Topics. In the Admin Panel, go to the Manage tab and drop down to SLA then click on Add New SLA Plan.
 </p>
-Add New SLA plan
+osTicket by default has the SLA Plan Default SLA. You will create three SLA Plans each with their own length of time for different kinds of importance of the ticket, from highest priority to lowest priority
+1.) SEV-A with 1 hour Grace Period, 24/7 schedule, suitable for tickets that are business critical
+2.) SEV-B with 4 hour Grace Period, 24/7 schedule, suitable for tickets affecting employees such as troubleshooting or PC problems
+3.) SEV-C with 8 hour Grace Period, Business Hours schedule, suitable for tickets requesting new equipment
 <p>
-
-- Name: SEV-B
-- Grace period: 4 hours
-- Schedule: 24/7
-<p>
-</p>
-Add New SLA plan
-<p>
-
-- Name: SEV-C
-- Grace period: 8
-- Schedue: Monday-Friday 8:00 AM - 5 PM
-<p>
-Go to the Manage tab, on the SLA section, the SLAs should be displayed to see that this was done correctly
-<p>
-<img src="https://i.imgur.com/nn3SSIP.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
-</p>
+Example of creating an SLA Plan, click on Add Plan to create the SLA Plan
 <p>
 9.) Configure Help Topics
 <p>
