@@ -129,7 +129,7 @@ Fill in the Agent's basic info and set the Agent's email address as [name].doe@o
 <p>
 Set the Agent's password to Password1 and uncheck the boxes to prevent the Agent from needing to reset password or change password after login
 <p>
-Go to the access tab, for Primary Department select Support. For the Role select View Only. For Extended Access select Support, then Create.
+Go to the access tab, for Primary Department select Support. For the Role select View Only. Extended access can be added to the agent in order to access additional departments, leave this as default. In Permissions tab leave all the options selected. In Teams assign it to Level II Support, then Create.
 </p>
 <p>
 <img src="https://i.imgur.com/AThQTw4.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
