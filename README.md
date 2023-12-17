@@ -141,7 +141,7 @@ Go to the access tab, to set the agents Primary Department. Extended access can 
 <p>
 As an Example, for the agent Jane Doe in the access tab we can assign for her in Primary Department: System Administrators. For role: Supreme Admin. In Extended Access leave everything thats already assigned in permissions. We can assign her to Level II Support in Teams.
 <p/>
-Example 2: for the agent John Doe in the access tab we can assign for her in Primary Department: Support. For role: View Only. In Extended Access assign him to Support. Leave everything else as default.
+Example 2: for the agent John Doe in the access tab we can assign for him in Primary Department: Support. For role: View Only. In Extended Access assign him to Support. Leave everything else as default.
 </p>
 Users are creators and owners of tickets and by using osTicket they are able to track the status of their tickets. In the Agent Panel, go to the Users tab and click on Add User. In this tutorial you will be creating two new users Ken and Karen and setting up usernames, emails, and passwords similiar to our Agents.
 </p>
