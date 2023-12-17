@@ -136,7 +136,7 @@ Set the Agent's password to Password1 and uncheck the boxes to prevent the Agent
 Go to the access tab, to set the agents Primary Department. Extended access can be added to the agent in order to access additional departments. It is optional to assign the agent to a team in the Teams tab.
 </p>
 <p>
-<img src="https://i.imgur.com/ym0YnHp.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/0g0BhVb.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Users are creators and owners of tickets and by using osTicket they are able to track the status of their tickets. In the Agent Panel, go to the Users tab and click on Add User. In this tutorial you will be creating two new users Ken and Karen and setting up usernames, emails, and passwords similiar to our Agents.
