@@ -207,4 +207,4 @@ Example of Adding a New Help Topic
 <img src="https://i.imgur.com/S8013HP.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 <p>
 <p/>
-This is the conclusion of the osTicket configuration
+This is the conclusion of the lab
