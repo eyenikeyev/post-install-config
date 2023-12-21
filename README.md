@@ -136,7 +136,7 @@ Go to the access tab, to set the agents Primary Department. Extended access can 
 <img src="https://i.imgur.com/0g0BhVb.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-For Example, for the agent Jane Doe in the access tab we can assign for her in Primary Department: System Administrators. For role: Supreme Admin. In Extended Access: Support. For Role select Supreme Admin. We can assign her to Level II Support in Teams.
+As an Example, for the agent Jane Doe in the access tab we can assign for her in Primary Department: System Administrators. For role: Supreme Admin. In Extended Access: Support. For Role select Supreme Admin. We can assign her to Level II Support in Teams.
 <p/>
 Example 2: for the agent John Doe in the access tab we can assign for him in Primary Department: Support. For role: View Only. In Extended Access assign him to Support. Leave everything else as default.
 </p>
