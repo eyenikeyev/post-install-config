@@ -116,7 +116,6 @@ Access the Admin Panel, go to the Settings tab and click on Users, make sure Reg
 
 <p>
   
-<ul>
 <p>
 
 Agents are given the access to the help desk in osTicket to respond, resolve, and update the status of tickets. In the Admin Panel, go to the agents tab and click on Add New Agent.
