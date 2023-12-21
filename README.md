@@ -144,7 +144,7 @@ Example 2: for the agent John Doe in the access tab we can assign for him in Pri
 Users are creators and owners of tickets and by using osTicket they are able to track the status of their tickets. In the Agent Panel, go to the Users tab and click on Add User. In this tutorial you will be creating two new users Ken and Karen and setting up usernames, emails, and passwords similiar to our Agents.
 </p>
 <p>
-<img src="https://i.imgur.com/Y6JgfEx.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Y6JgfEx.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 </ul>
