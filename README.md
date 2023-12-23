@@ -158,7 +158,7 @@ Users are creators and owners of tickets and by using osTicket they are able to 
 
 
 <p>
-Service Level Agreements provide a length of time for the Administrator when the tickets are expected to be closed. They can also be designatedto specific Departments or Help Topics. In the Admin Panel, go to the Manage tab and drop down to SLA then click on Add New SLA Plan.
+Service Level Agreements provide a length of time for the Administrator when the tickets are expected to be closed. They can also be designated to specific Departments or Help Topics. In the Admin Panel, go to the Manage tab and drop down to SLA then click on Add New SLA Plan.
 </p>
 osTicket by default has the SLA Plan Default SLA. You will create three SLA Plans each with their own length of time for different kinds of importance of the ticket, from highest priority to lowest priority
 <p/>
