@@ -186,7 +186,7 @@ Example of creating an SLA Plan, click on Add Plan to create the SLA Plan
   
 
 <p>
-Help Topics are helpful to streamline the ticket entry experience for the user buy helping them specify their ticket info and also determine what department the ticket should go to. In the Admin Panel, go to the Manage tab and click on Add New Topic.
+Help Topics are helpful to streamline the ticket entry experience for the user by helping them specify their ticket info and also determine what department the ticket should go to. In the Admin Panel, go to the Manage tab and click on Add New Topic.
 <p>
 Note: osTicket creates four Help Topics. Feedback, General Inquiry, Report a Problem, and Report a Problem / Access Issue be default.
 <p>
