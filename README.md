@@ -171,7 +171,7 @@ osTicket by default has the SLA Plan Default SLA. You will create three SLA Plan
 <p>
 Example of creating an SLA Plan, click on Add Plan to create the SLA Plan
 <p>
-<img src="https://i.imgur.com/40oT52p.png" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/40oT52p.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 <p/>
 <p>
 </ul>
