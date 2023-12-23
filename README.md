@@ -190,7 +190,7 @@ Help Topics are helpful to streamline the ticket entry experience for the user b
 <p>
 Note: osTicket creates four Help Topics. Feedback, General Inquiry, Report a Problem, and Report a Problem / Access Issue be default.
 <p>
-<img src="https://i.imgur.com/40oT52p.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/tjaOwio.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 <p>
 You will create four different Help Topics based on the potential severity a ticket could have, from lowest to highest priority
 <p>
