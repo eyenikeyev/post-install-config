@@ -85,7 +85,7 @@ The Teams section is used to organize Agents from different departments in osTic
 <p>
 Note: osTicket creates a team - Level I Support by default
 <p>
-<img src="https://i.imgur.com/7ABf8Vr.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/oWvLUlA.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 <p>
 Add New Team, name it Level II Support, then click on Create Team
 <p>
