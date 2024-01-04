@@ -48,7 +48,7 @@ osTicket official online documentation: https://docs.osticket.com/en/latest/inde
 
 There are two panels when navigating osTicket: Agent Panel and Admin Panel. You will know which panel you're on if the opposite panel is displayed on the top right of the UI next to your user login name. For example the user "Eric" is on the Agent Panel
 <p>
-<img src="https://i.imgur.com/U8t4YwD.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/QNC8AoF.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 <p>
 <b>Configure Roles</b>
 </li>
@@ -56,7 +56,7 @@ There are two panels when navigating osTicket: Agent Panel and Admin Panel. You 
 Roles are the permissions granted to Agents per Department that they have access to. Access the Admin Panel, go to Agents tab and click on Roles, then click on Add New Role
 <p>
 Note: osTicket creates Four Roles - All Access, Expanded Access, Limited Access, and View Only by default.
-<img src="https://i.imgur.com/UINgbKj.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/U8t4YwD.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 <p>
 Name the role Supreme Admin, then click on the permissions tab; in this tab you can assign specific permissions to this role. For the Supreme Admin role, check every box under the Tickets, Tasks, and Knowledgebase tabs. Click on Add Role to finish this process
 <p>
