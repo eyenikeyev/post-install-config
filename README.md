@@ -11,14 +11,14 @@ osTicket official online documentation: https://docs.osticket.com/en/latest/inde
 
 
 
-<h3>Environments and Technologies Used</h3>
+<h3>Environments and Technologies</h3>
 
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop
 - Internet Information Services (IIS)
 - osTicket
 
-<h3>Operating Systems Used </h3>
+<h3>Operating Systems</h3>
 
 - Windows 10</b>
 
