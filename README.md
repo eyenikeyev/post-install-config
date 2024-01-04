@@ -7,8 +7,6 @@ This tutorial outlines the post-install configuration of the open-source help de
 </p>
 osTicket official online documentation: https://docs.osticket.com/en/latest/index.html
 </p>
-</br>
-
 
 
 <h3>Environments and Technologies</h3>
@@ -24,7 +22,6 @@ osTicket official online documentation: https://docs.osticket.com/en/latest/inde
 
 </ul>
 
-</br>
 
 <h3>Post-Install Configuration Objectives</h3>
 <ol>
@@ -36,15 +33,13 @@ osTicket official online documentation: https://docs.osticket.com/en/latest/inde
   <li>Configuring Help Topics</li>
 </ol>
 
-</br>
+
 <h3>Configuration Steps</h3>
 
-</br>
 
 <h3>Configuring Roles, Departments, & Teams</h3>
 
 <p>
-
 
 There are two panels when navigating osTicket: Agent Panel and Admin Panel. You will know which panel you're on if the opposite panel is displayed on the top right of the UI next to your user login name. For example the user "Eric" is on the Agent Panel
 <p>
