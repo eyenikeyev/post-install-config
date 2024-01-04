@@ -69,7 +69,7 @@ Name the role Supreme Admin, then click on the permissions tab; in this tab you 
 Departments are used to route and resolve tickets based on their importance or instructions. On the Agents tab, click on Departments and click on Add New Department.
 
 Note: osTicket creates two departments (Maintenance and Support) by default
-<img src="https://i.imgur.com/lkkCjJL.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/zQLYDMS.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Name the Department System Administrators, leave all other options as default, then Create Dept to create department
