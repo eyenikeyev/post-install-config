@@ -48,7 +48,7 @@ osTicket official online documentation: https://docs.osticket.com/en/latest/inde
 
 There are two panels when navigating osTicket: Agent Panel and Admin Panel. You will know which panel you're on if the opposite panel is displayed on the top right of the UI next to your user login name. For example the user "Eric" is on the Agent Panel
 <p>
-<img src="https://i.imgur.com/QNC8AoF.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/U8t4YwD.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 <p>
 <b>Configure Roles</b>
 </li>
