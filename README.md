@@ -39,6 +39,7 @@ osTicket official online documentation: https://docs.osticket.com/en/latest/inde
 </br>
 <h3>Configuration Steps</h3>
 
+</br>
 
 <h3>Configuring Roles, Departments, & Teams</h3>
 
