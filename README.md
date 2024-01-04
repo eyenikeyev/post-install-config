@@ -11,14 +11,14 @@ osTicket official online documentation: https://docs.osticket.com/en/latest/inde
 
 
 
-<h2>Environments and Technologies Used</h2>
+<h3>Environments and Technologies Used</h3>
 
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop
 - Internet Information Services (IIS)
 - osTicket
 
-<h2>Operating Systems Used </h2>
+<h3>Operating Systems Used </h3>
 
 - Windows 10</b>
 
@@ -26,7 +26,7 @@ osTicket official online documentation: https://docs.osticket.com/en/latest/inde
 
 </br>
 
-<h2>Post-Install Configuration Objectives</h2>
+<h3>Post-Install Configuration Objectives</h3>
 <ol>
   <li>Familiarity with the UI of osTicket</li>
   <li>Creating and Configuring Roles</li>
@@ -37,7 +37,7 @@ osTicket official online documentation: https://docs.osticket.com/en/latest/inde
 </ol>
 
 </br>
-<h2>Configuration Steps</h2>
+<h3>Configuration Steps</h3>
 
 
 <h3>Configuring Roles, Departments, & Teams</h3>
